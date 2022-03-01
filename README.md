@@ -12,8 +12,10 @@ Only use it on virtual machine to prevent the virus from injecting your local ma
 2. Then go to this link https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/ and download a Windows 10 virtual machine 
 3. Then you can proceed to download and use the ransomware on it
 
-# How to use
-1. Goto Launcher_Ransomware -> bin -> Debug
-2. Download the Netwalker.exe
-3. You are good to go
-4. Enjoy!
+# How to use (1)
+1. You can download the project folder and customize it based on your needs
+2. To upload files to your own google drive, you can go into the project and search for App.config
+3. Then replace the ClientId and ClientSecret to your own GoogleDriveAPI ClientId and ClientSecret
+
+# How to use (2)
+1. You can download the Netwalker.exe file and you good to go.
