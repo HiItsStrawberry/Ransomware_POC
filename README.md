@@ -13,7 +13,7 @@ Only use it on virtual machine to prevent the virus from injecting your local ma
 3. Then you can proceed to download and use the ransomware on it
 
 # How to use (1)
-1. You can download the project folder and customize it based on your needs
+1. You can clone the project folder and customize it based on your needs
 2. To upload files to your own google drive, you can go into the project and search for App.config
 3. Then replace the ClientId and ClientSecret to your own GoogleDriveAPI ClientId and ClientSecret
 
