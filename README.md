@@ -9,7 +9,7 @@ Only use it on virtual machine to prevent the virus from injecting your local ma
 
 ## To download a virtual machine
 1. First you will need a VMWare or Virtual Box
-2. Then go to this link https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/ and download a Windows 10 virtual machine 
+2. Then go to this link https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/ and download a Windows 10 virtual machine 
 3. Then you can proceed to download and use the ransomware on it
 
 ## How to use (1)
