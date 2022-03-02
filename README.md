@@ -18,4 +18,4 @@ Only use it on virtual machine to prevent the virus from injecting your local ma
 3. Then replace the ClientId and ClientSecret to your own GoogleDriveAPI ClientId and ClientSecret
 
 ## How to use (2)
-1. You can download the Netwalker.exe file and you good to go.
+1. You can download the Netwalker.exe in the Installer file and you good to go.
